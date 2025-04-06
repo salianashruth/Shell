@@ -18,4 +18,5 @@ It shows the filesystem, total size, used space, available space, usage percenta
 This function displays the system's load averages over the last 1, 5, and 15 minutes. It uses the uptime command to gather this information.
 
 Copy the script into a file,=, Shell.sh
+
 Make the script executable +x shell.sh
