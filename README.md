@@ -36,6 +36,7 @@ PID      USER     %CPU     %MEM     TIME+    COMMAND
 10       root     0.0      0.0      0:00.00  mm_percpu_wq
 11       root     0.0      0.0      0:00.00  rcu_tasks_kthread
 12       root     0.0      0.0      0:00.00  rcu_tasks_rude_kthread
+
 Memory Usage:
   Total Memory:  949Mi
   Used Memory:   126Mi
@@ -45,6 +46,7 @@ Memory Usage:
 Swap Usage:
   Total Swap:    0B
   Used Swap:     0B
+  
 Disk Utilization
 ==================
 Filesystem           Size       Used       Avail      Use%       Mounted
@@ -55,6 +57,7 @@ tmpfs                190M       452K       190M       1%         /run
 tmpfs                475M       0          475M       0%         /tmp
 /dev/xvda128         10M        1.3M       8.7M       13%        /boot/efi
 tmpfs                95M        0          95M        0%         /run/user/1000
+
 System Load
 --------------------
 Load Average : 0.00,      0.00,      0.00
